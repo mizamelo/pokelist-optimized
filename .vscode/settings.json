@@ -1,0 +1,24 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.detectIndentation": true,
+  "editor.rulers": [80],
+  "editor.snippetSuggestions": "top",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.suggestSelection": "recentlyUsed",
+    "editor.suggest.showKeywords": false
+  },
+  "editor.renderWhitespace": "boundary",
+  "files.exclude": {
+    "USE_GITIGNORE": true
+  },
+  "files.defaultLanguage": "{activeEditorLanguage}",
+  "javascript.validate.enable": false,
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/coverage": true,
+    "**/build": true
+  },
+  "breadcrumbs.enabled": true
+}
