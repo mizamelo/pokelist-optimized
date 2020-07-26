@@ -1,4 +1,4 @@
-# Open Source Boilerplate
+# PokeList
 
 [![GitHub license](https://img.shields.io/github/license/mizamelo/pokelist-optimized?style=for-the-badge)](https://github.com/mizamelo/pokelist-optimized/blob/master/LICENSE)
 
